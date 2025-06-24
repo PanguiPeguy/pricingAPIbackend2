@@ -1,2 +1,2 @@
-fastapi==0.104.1
+Flask==3.0.0
 uvicorn==0.24.0
